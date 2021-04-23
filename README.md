@@ -5,5 +5,5 @@
 
 This prototype wine review comparison attempts to analyse reviews from thousands of wines (red wines between $15-$40), from wine experts and non-experts. Then, employ an NLP solution to get a deeper understanding of reviews, compare them to each other, and discover if it is possible to write a new review that takes the middle ground. The intent is therefore to have a wine review a non-wine expert can use to buy wine to their liking, the first time (a new wine review is future work).
 
-This project scrapes a 10,000 plus wine list with expert reviews/descriptions from a popular Australian wine retailer, and from another site, scrapes non-wine expert reviews using the same wine list. The WebCrawler also scrapes metadata for example price and vintage for use in future development. Research has shown that a $15 bottle can have a bad review over a $40 bottle, even though the wines are similar in quality. </font>
+This project scraps a 10,000 plus wine list with expert reviews/descriptions from a popular Australian wine retailer, and from another site, scrapes non-wine expert reviews using the same wine list. The WebCrawler also scrapes metadata for example price and vintage for use in future development. Research has shown that a $15 bottle can have a bad review over a $40 bottle, even though the wines are similar in quality. </font>
 
